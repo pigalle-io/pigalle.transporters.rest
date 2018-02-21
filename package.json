@@ -1,0 +1,32 @@
+{
+  "name": "@pigalle/transporters.restify",
+  "version": "0.1.0-alpha1",
+  "description": "A REST transporter for the Pigalle framework using Restify.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigalle-io/pigalle.transporters.restify.git"
+  },
+  "keywords": [
+    "node",
+    "pigalle",
+    "pigalle.io",
+    "transporter",
+    "restify",
+    "http",
+    "rest"
+  ],
+  "author": "SAS 9 Février <contact@9fevrier.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pigalle-io/pigalle.transporters.restify/issues"
+  },
+  "homepage": "https://github.com/pigalle-io/pigalle.transporters.restify#readme"
+}
